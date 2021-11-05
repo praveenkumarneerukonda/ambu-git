@@ -11,3 +11,8 @@ int num = scanner.nextInt();
 Enter the number:
 12
 Factorial of entered number is: 47900160atic int fact(int n)
+// modify by sub-dev01
+package Edureka;
+public class Fibonacci {
+public static void main(String[] args) {
+//initializing the constants
